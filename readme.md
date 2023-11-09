@@ -3,7 +3,7 @@
 This placement cell web application is created for users/employees to manage interviews of students, and allocate students to companies` interviews. \
 It is built using NodeJs, ExpressJs, MongoDB, EJS and JavaScript.
 
-### 🔗 Hosted link: [placement cell](https://placement-cell.onrender.com/)
+### 🔗 [Hosted link](https://placement-cell-10fv.onrender.com/)
 
 
 ## ⚙️ Functionality 
@@ -23,19 +23,6 @@ It is built using NodeJs, ExpressJs, MongoDB, EJS and JavaScript.
 - EJS
 - Bootstrap
 
-### 📚 Libraries: 
-* bcryptjs
-* connect-flash
-* connect-mongo
-* cookie-parser
-* dotenv
-* ejs
-* express
-* express-ejs-layout
-* express-session
-* mongoose
-* passport
-* passport-jwt
-* passport-local
+
 
 
